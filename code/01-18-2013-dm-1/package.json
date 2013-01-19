@@ -1,0 +1,16 @@
+{
+  "name": "01-18-2013-dm-1",
+  "version": "0.0.0",
+  "description": "Descubriendo modulos #1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Alejandro Morales",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~3.0.6",
+    "enchilada": "0.0.9"
+  }
+}
